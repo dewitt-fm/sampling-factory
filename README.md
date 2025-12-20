@@ -1,4 +1,4 @@
-sampling factory :
+sampling factory (:
 
 https://www.mediafire.com/file/orqzj1wir2vmgqy/samplingfactory.zip/file
 
